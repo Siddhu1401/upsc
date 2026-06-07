@@ -638,5 +638,37 @@
     },
     "knowledge_graph": [],
     "relevance_score": 10
+  },
+  {
+    "title": "People are being offered cash, IVF support and housing to have more kids. Why is it not working?",
+    "url": "https://indianexpress.com/article/explained/explained-culture/falling-population-india-tfr-global-fertility-10728338/",
+    "summary": "",
+    "published_date": "Sun, 07 Jun 2026 10:34:43 +0000",
+    "feed_source": "IE_EXPLAINED",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "Demographic Dividend and Population Policy"
+    ],
+    "deep_analysis": {
+      "what": "The government and private sectors are offering incentives such as cash, IVF support, and housing to encourage people to have more children. However, this approach is not yielding the desired results. The issue lies in the fact that people are hesitant to have more children due to various socio-economic factors. Despite the incentives, the population growth rate remains low.",
+      "why": "The driving forces behind this phenomenon are the changing social norms, increasing costs of raising children, and the desire for better education and healthcare. The economic uncertainty and lack of job security also contribute to people's reluctance to have more children.",
+      "historical_context": "India's population policy has historically focused on family planning and population control. However, with the changing demographics and the need for a demographic dividend, the focus has shifted to incentivizing people to have more children.",
+      "significance": "The low population growth rate has significant implications for India's economy, social security, and pension systems. A low population growth rate can lead to a shortage of skilled workers, increased burden on the elderly, and strain on public resources.",
+      "implications": "The short-term implications include a strain on public resources, while the long-term implications include a potential shortage of skilled workers and a significant burden on the pension and social security systems.",
+      "stakeholders": "The key stakeholders affected are the government, private sector, and individuals. The government is concerned about the population growth rate, while the private sector is interested in a larger workforce. Individuals are affected by the changing social norms and economic uncertainty.",
+      "advantages": "The benefits of a higher population growth rate include a larger workforce, increased consumer spending, and a potential demographic dividend. A growing population can also lead to increased innovation and entrepreneurship.",
+      "challenges": "The obstacles to increasing the population growth rate include changing social norms, economic uncertainty, and lack of job security. The challenges also include providing adequate healthcare, education, and infrastructure to support a growing population.",
+      "criticisms": "The criticisms of this approach include the potential for increased burden on public resources, strain on infrastructure, and the possibility of neglecting the needs of the existing population. Some experts also argue that incentivizing people to have more children may not address the root causes of low population growth.",
+      "way_forward": "The way forward includes a comprehensive approach that addresses the socio-economic factors affecting population growth. The government and private sector need to work together to provide better education, healthcare, and job opportunities. There is also a need to rethink the population policy and focus on providing support to families and individuals."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "The UPSC Prelims could test facts about India's population policy, demographic dividend, and population growth rate. For example, a question could be asked about the goals of India's population policy or the implications of a low population growth rate.",
+      "mains_angle": "This topic could generate a question in GS3, specifically on the topic of population policy and demographic dividend. A question could be asked about the challenges and opportunities presented by India's demographic transition.",
+      "essay_angle": "This topic connects to broader themes suitable for a GS4 or Essay paper, such as the impact of demographic changes on economic development, social security, and governance. An essay could be written on the topic 'Demographic Dividend: Opportunity or Challenge?'"
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
   }
 ]
