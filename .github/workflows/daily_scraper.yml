@@ -15,7 +15,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # THIS IS THE CHANGED LINE: Using your PAT instead of default bot token
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
