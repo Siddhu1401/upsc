@@ -6078,5 +6078,37 @@
     },
     "knowledge_graph": [],
     "relevance_score": 10
+  },
+  {
+    "title": "BharatNet’s last mile woes: just 45 per cent connections active",
+    "url": "https://indianexpress.com/article/business/companies/bharatnets-last-mile-woes-just-45-per-cent-connections-active-10749717/",
+    "summary": "",
+    "published_date": "Sun, 21 Jun 2026 01:01:14 +0000",
+    "feed_source": "IE_ECONOMY",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "BharatNet, Digital Infrastructure, Connectivity"
+    ],
+    "deep_analysis": {
+      "what": "The BharatNet project, aimed at providing high-speed broadband connectivity to gram panchayats across India, is facing significant challenges in its last-mile connectivity. Despite the project's ambitious goals, only 45% of the connections are active, indicating a substantial gap in achieving full operational capacity. This situation raises concerns about the project's effectiveness in bridging the digital divide in rural areas. The slow progress in activating connections hampers the delivery of various e-services and digital opportunities to rural communities.",
+      "why": "The primary reasons for the last-mile woes of BharatNet include inadequate infrastructure, lack of coordination among stakeholders, and insufficient local engagement. Technical issues, financial constraints, and bureaucratic delays have also contributed to the slow activation of connections. Furthermore, the project's reliance on a complex ecosystem of service providers, infrastructure developers, and government agencies has led to coordination challenges, affecting its overall performance.",
+      "historical_context": "The BharatNet project was initiated to provide high-speed broadband connectivity to all gram panchayats in India, aiming to bridge the digital divide and promote e-governance, education, healthcare, and economic opportunities in rural areas. Launched in 2017, the project envisioned a multi-fiber network to connect over 2.5 lakh gram panchayats across the country. Despite its potential, the project has faced numerous challenges, including delays, cost overruns, and issues with the public-private partnership model.",
+      "significance": "The BharatNet project's success is crucial for India's digital transformation, as it aims to extend the benefits of the digital economy to rural populations. Active and widespread broadband connectivity can enhance access to education, healthcare, and government services, fostering socio-economic development. The project's outcomes will have a significant impact on India's efforts to achieve inclusive growth and reduce regional disparities.",
+      "implications": "The underperformance of BharatNet has short-term and long-term implications for India's digital infrastructure and socio-economic development. In the short term, it may lead to delays in the delivery of essential services and hinder the realization of the Digital India initiative's goals. In the long term, inadequate connectivity can perpetuate the digital divide, limiting opportunities for rural populations and affecting India's global competitiveness.",
+      "stakeholders": "The key stakeholders affected by the BharatNet project include the Ministry of Electronics and Information Technology (MeitY), state governments, local panchayats, service providers, and the rural population. These stakeholders have a vested interest in the project's success, as it directly impacts the delivery of digital services and the socio-economic development of rural areas.",
+      "advantages": "The BharatNet project offers several benefits, including the potential to bridge the digital divide, enhance access to education and healthcare, and promote e-governance. Successful implementation can also spur economic growth in rural areas by providing opportunities for entrepreneurship and job creation.",
+      "challenges": "The major challenges facing the BharatNet project include technical issues with last-mile connectivity, coordination problems among stakeholders, financial constraints, and bureaucratic delays. Addressing these challenges is crucial to achieving the project's objectives and ensuring the effective utilization of resources.",
+      "criticisms": "Critics argue that the project's progress has been slow and that it has faced significant challenges in achieving its goals. There are also concerns about the project's sustainability, equity, and the digital literacy of rural populations. Some experts suggest that a more decentralized approach and greater community involvement could have improved the project's outcomes.",
+      "way_forward": "To overcome the challenges and revitalize the BharatNet project, it is essential to adopt a multi-pronged strategy. This includes strengthening the project's governance framework, enhancing coordination among stakeholders, and implementing targeted measures to address technical and financial issues. Additionally, promoting digital literacy and community engagement can ensure the effective utilization of the infrastructure and services provided by the project."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "The BharatNet project is a significant initiative under the Digital India program, aimed at providing broadband connectivity to gram panchayats. A UPSC Prelims MCQ could test facts about the project's objectives, funding, and the role of various government agencies involved.",
+      "mains_angle": "This topic could generate a question in GS3, specifically under the topic of 'Indian Economy and Issues relating to Planning, Mobilization of Resources, Growth, Development, and Employment.' A question could assess the candidate's understanding of the project's impact on rural development, digital economy, and the challenges faced in its implementation.",
+      "essay_angle": "The BharatNet project connects to broader themes suitable for a GS4 or Essay paper, such as 'Ethics in Governance,' 'Digital Governance,' and 'Sustainable Development.' A question could explore the ethical implications of digital connectivity, the role of technology in sustainable development, and the challenges of implementing large-scale projects in a diverse country like India."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
   }
 ]
