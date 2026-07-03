@@ -9374,5 +9374,645 @@
     },
     "knowledge_graph": [],
     "relevance_score": 10
+  },
+  {
+    "title": "How a battery ‘hacking’ app can strand an e-rickshaw — and the risks it poses",
+    "url": "https://indianexpress.com/article/explained/explained-sci-tech/bms-apps-e-rickshaw-battery-hack-government-action-10769863/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 11:09:39 +0000",
+    "feed_source": "IE_EXPLAINED",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "Cybersecurity and Electric Vehicles"
+    ],
+    "deep_analysis": {
+      "what": "A battery 'hacking' app has been found to pose significant risks to e-rickshaws, potentially stranding them. This app can manipulate the vehicle's battery management system, leading to loss of control and accidents. The app's existence highlights the vulnerability of electric vehicles to cyber threats. This incident underscores the need for robust cybersecurity measures in the growing EV sector.",
+      "why": "The increasing reliance on digital systems in electric vehicles has created new avenues for cyber attacks. The lack of stringent cybersecurity protocols in the EV industry, particularly in the context of e-rickshaws, has made them susceptible to such threats. The app's ability to hack into the vehicle's system demonstrates the potential for malicious actors to disrupt the functioning of EVs.",
+      "historical_context": "The rise of electric vehicles in India, driven by government initiatives to promote sustainable transportation, has led to an increase in the number of e-rickshaws on the roads. However, the focus on promoting EVs has sometimes overshadowed the need for robust safety and cybersecurity measures.",
+      "significance": "This incident highlights the critical need for cybersecurity measures in the EV sector to prevent such threats. It also underscores the importance of developing and implementing robust safety protocols for EVs to ensure public safety and trust in electric transportation.",
+      "implications": "The potential implications of this vulnerability are far-reaching, with risks to public safety, the reputation of the EV industry, and the broader adoption of electric vehicles. If left unchecked, such vulnerabilities could undermine the government's efforts to promote sustainable transportation.",
+      "stakeholders": "The key stakeholders affected include e-rickshaw manufacturers, battery suppliers, government agencies regulating the EV industry, and users of e-rickshaws. These stakeholders must work together to address the cybersecurity risks associated with EVs.",
+      "advantages": "The identification of this vulnerability allows for proactive measures to be taken to secure EV systems, enhancing public trust and safety. It also presents an opportunity for India to develop and implement robust cybersecurity standards for the EV sector.",
+      "challenges": "Addressing the cybersecurity risks associated with EVs will require significant investment in research and development, as well as the implementation of stringent safety protocols. There may also be resistance from manufacturers who prioritize cost over safety and cybersecurity.",
+      "criticisms": "Critics may argue that the focus on cybersecurity for EVs overlooks more pressing safety concerns, such as road safety and accident prevention. Others may point out that stringent regulations could hinder the growth of the EV industry.",
+      "way_forward": "To mitigate these risks, the government and industry stakeholders must collaborate to develop and implement robust cybersecurity standards for EVs. This includes investing in research and development to stay ahead of emerging threats and ensuring that EV manufacturers prioritize cybersecurity in their designs."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This issue could be relevant for questions on electric vehicles, cybersecurity threats, and government initiatives for sustainable transportation. A prelims question could test facts about the types of cyber threats faced by EVs or government policies aimed at promoting EV adoption.",
+      "mains_angle": "This topic could generate questions in GS3, focusing on the challenges and opportunities in the EV sector, cybersecurity threats to critical infrastructure, and the policy responses required to address these challenges.",
+      "essay_angle": "The topic connects to broader themes of sustainable development, technological advancement, and governance, which are suitable for the Essay paper. It could be explored in the context of India's efforts to promote sustainable transportation and the challenges associated with the adoption of new technologies."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Expert Explains | Despite talks, why US and Iran are still trading blows — and may keep doing so",
+    "url": "https://indianexpress.com/article/explained/explained-global/us-iran-talks-strait-of-hormuz-mou-explained-10769698/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 10:13:10 +0000",
+    "feed_source": "IE_EXPLAINED",
+    "gs_tags": [
+      "GS2"
+    ],
+    "topics": [
+      "International Relations and Conflict Dynamics"
+    ],
+    "deep_analysis": {
+      "what": "Despite ongoing talks, the US and Iran continue to engage in a cycle of retaliatory actions, indicating a complex and deeply entrenched conflict. The dynamics of this conflict are influenced by regional power struggles, nuclear diplomacy, and domestic political considerations in both countries. The lack of a lasting resolution underscores the challenges of negotiating a sustainable peace in the region.",
+      "why": "The conflict between the US and Iran is driven by a combination of factors, including regional influence, Iran's nuclear program, and historical grievances. The US seeks to limit Iran's regional ambitions and prevent nuclear proliferation, while Iran aims to assert its influence and protect its nuclear program.",
+      "historical_context": "The US-Iran relationship has been marked by periods of tension and diplomacy, including the 1979 Iranian Revolution, the 1994 nuclear agreement (JCPOA), and the US withdrawal from the JCPOA in 2018. These events have shaped the current dynamics of the conflict.",
+      "significance": "The ongoing conflict has significant implications for regional stability, global oil markets, and international diplomacy. A lasting resolution could help alleviate tensions in the Middle East and contribute to global peace and security.",
+      "implications": "The continued conflict could lead to further escalation, potentially drawing in other regional actors and impacting global energy markets. It also poses challenges for international diplomacy, particularly in the context of nuclear non-proliferation.",
+      "stakeholders": "The key stakeholders include the US, Iran, other Middle Eastern countries, and international organizations such as the IAEA and the UN. These actors have a vested interest in the outcome of the conflict and the potential for a negotiated settlement.",
+      "advantages": "The ongoing dialogue, despite the challenges, keeps the door open for a potential negotiated settlement. It also highlights the international community's commitment to finding a peaceful resolution to the conflict.",
+      "challenges": "The deep-seated mistrust and competing interests between the US and Iran pose significant challenges to achieving a lasting resolution. The involvement of other regional actors and the complexity of the conflict dynamics further complicate the negotiation process.",
+      "criticisms": "Critics argue that the US approach to Iran has been inconsistent and that the maximum pressure campaign has failed to achieve its objectives. Others point out that Iran's actions, including its support for proxy groups, contribute to regional instability.",
+      "way_forward": "A negotiated settlement would require a comprehensive approach addressing the core issues driving the conflict, including Iran's nuclear program, regional influence, and historical grievances. This would necessitate a sustained diplomatic effort and a willingness from both sides to compromise."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This topic could be relevant for questions on international relations, conflict dynamics, and diplomatic efforts. A prelims question could test facts about the JCPOA, US-Iran relations, or key regional players.",
+      "mains_angle": "This topic could generate questions in GS2, focusing on international relations, conflict resolution, and diplomacy. It could explore the challenges of negotiating a sustainable peace in a complex conflict scenario.",
+      "essay_angle": "The topic connects to broader themes of international peace and security, diplomacy, and conflict resolution, which are suitable for the Essay paper. It could be explored in the context of India's role in promoting regional stability and its experiences with diplomatic negotiations."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Madras HC orders cow slaughter ban, but state’s laws speak of regulation. Here’s what they say",
+    "url": "https://indianexpress.com/article/explained/explained-law/tamil-nadu-sc-madras-high-court-cow-slaughter-bakrid-10769735/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 10:10:34 +0000",
+    "feed_source": "IE_EXPLAINED",
+    "gs_tags": [
+      "GS1"
+    ],
+    "topics": [
+      "Animal Welfare and State Policies"
+    ],
+    "deep_analysis": {
+      "what": "The Madras High Court has ordered a ban on cow slaughter in Tamil Nadu, while existing state laws regulate cow slaughter. This has sparked a debate on the need for uniform laws and the role of the judiciary in enforcing animal welfare protections. The court's order reflects concerns about animal cruelty and the cultural significance of cows in India.",
+      "why": "The court's decision was driven by concerns about animal welfare and the need to protect cows from slaughter. The existing laws in Tamil Nadu, which regulate but do not ban cow slaughter, have been deemed insufficient by the court.",
+      "historical_context": "The protection of cows has been a contentious issue in India, with various states implementing different laws and regulations. The judiciary has played a significant role in enforcing animal welfare protections and interpreting existing laws.",
+      "significance": "The court's order sets a precedent for other states to consider stricter protections for animals. It also highlights the tension between state laws and judicial interventions in enforcing animal welfare standards.",
+      "implications": "The implications of the court's order could be far-reaching, with potential impacts on the livestock industry, animal welfare organizations, and the broader cultural and social discourse on animal protection.",
+      "stakeholders": "The key stakeholders include animal welfare organizations, the livestock industry, state governments, and the judiciary. These actors have a vested interest in the outcome and implementation of the court's order.",
+      "advantages": "The court's order could lead to improved protections for animals and a heightened awareness of animal welfare issues. It also underscores the judiciary's role in enforcing constitutional and statutory protections for animals.",
+      "challenges": "The implementation of the court's order could pose challenges, particularly in terms of enforcing the ban on cow slaughter. There may also be resistance from stakeholders who argue that the order infringes on their rights or livelihoods.",
+      "criticisms": "Critics argue that the court's order could have unintended consequences, such as driving the livestock industry underground or exacerbating existing social and economic issues. Others point out that the order may not address the root causes of animal cruelty.",
+      "way_forward": "To effectively implement the court's order, the state government and stakeholders must work together to develop and enforce robust animal welfare protections. This includes investing in education and awareness campaigns, as well as strengthening enforcement mechanisms."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This topic could be relevant for questions on animal welfare laws, judicial interventions, and state policies. A prelims question could test facts about existing laws and regulations related to animal protection.",
+      "mains_angle": "This topic could generate questions in GS1, focusing on the cultural and social dimensions of animal protection, the role of the judiciary in enforcing animal welfare laws, and the challenges of implementing such laws.",
+      "essay_angle": "The topic connects to broader themes of compassion, ethics, and governance, which are suitable for the Essay paper. It could be explored in the context of India's cultural and philosophical perspectives on animal welfare and the role of the state in protecting animals."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Indian Ocean Dipole: What is it, and can it rescue India’s faltering 2026 monsoon",
+    "url": "https://indianexpress.com/article/explained/explained-climate/indian-ocean-dipole-el-nino-monsoon-impact-10769642/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 09:24:44 +0000",
+    "feed_source": "IE_EXPLAINED",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "Climate Change and Meteorological Phenomena"
+    ],
+    "deep_analysis": {
+      "what": "The Indian Ocean Dipole (IOD) is a climate phenomenon that could potentially impact India's monsoon patterns. The IOD is characterized by fluctuations in sea surface temperatures in the Indian Ocean, which can influence regional weather patterns. Understanding the IOD is crucial for predicting and preparing for extreme weather events.",
+      "why": "The IOD affects India's monsoon patterns by altering atmospheric circulation and moisture levels over the Indian subcontinent. This can lead to variations in rainfall, impacting agriculture and water resources.",
+      "historical_context": "The IOD has been studied extensively for its role in shaping regional climate patterns. Its impact on Indian monsoons has been a subject of research, given the country's dependence on monsoon rainfall for agriculture.",
+      "significance": "The IOD's potential to influence India's monsoon patterns makes it a critical factor in predicting and mitigating the impacts of climate change on agriculture and water resources. Understanding the IOD can help in developing more accurate weather forecasting models.",
+      "implications": "The implications of the IOD for India's climate are significant, with potential impacts on agricultural productivity, water scarcity, and extreme weather events. Accurate prediction and preparedness can help mitigate these impacts.",
+      "stakeholders": "The key stakeholders include meteorological agencies, agricultural communities, policymakers, and researchers. These actors have a vested interest in understanding and predicting the IOD's impacts on climate patterns.",
+      "advantages": "Understanding the IOD can lead to improved weather forecasting and climate modeling, enabling better preparedness for extreme weather events. It also presents an opportunity for India to develop and implement climate-resilient agricultural practices.",
+      "challenges": "Predicting the IOD and its impacts on climate patterns poses significant challenges, particularly in terms of data availability and modeling complexities. There may also be limitations in disseminating accurate and timely information to stakeholders.",
+      "criticisms": "Critics argue that the focus on the IOD overlooks other critical factors influencing India's climate, such as global warming and land use changes. Others point out that the impacts of the IOD may be overstated or misunderstood.",
+      "way_forward": "To effectively address the challenges posed by the IOD, India must invest in climate research, improve weather forecasting capabilities, and develop climate-resilient agricultural practices. This includes enhancing data collection and modeling capacities, as well as promoting awareness and preparedness among stakeholders."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This topic could be relevant for questions on climate change, meteorological phenomena, and their impacts on agriculture. A prelims question could test facts about the IOD, its causes, and its effects on regional climate patterns.",
+      "mains_angle": "This topic could generate questions in GS3, focusing on the scientific understanding of climate phenomena, their impacts on agriculture and water resources, and the policy responses required to address these challenges.",
+      "essay_angle": "The topic connects to broader themes of environmental sustainability, climate change, and human adaptation, which are suitable for the Essay paper. It could be explored in the context of India's efforts to address climate change and promote sustainable development."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Expert Explains | Inside Japan’s defence pivot: Why it matters for India and the Indo-Pacific",
+    "url": "https://indianexpress.com/article/explained/expert-explains-japan-defence-pivot-and-india-opportunity-10769548/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 08:45:05 +0000",
+    "feed_source": "IE_EXPLAINED",
+    "gs_tags": [
+      "GS2"
+    ],
+    "topics": [
+      "International Relations and Defense Strategy"
+    ],
+    "deep_analysis": {
+      "what": "Japan's defense pivot, characterized by increased military spending and strategic realignments, has significant implications for India and the Indo-Pacific region. This shift reflects Japan's response to regional security challenges, particularly China's growing military presence. The pivot could lead to enhanced defense cooperation between Japan and India.",
+      "why": "Japan's defense pivot is driven by concerns about regional security, particularly China's military expansion and North Korea's nuclear threats. Japan seeks to strengthen its military capabilities and alliances to ensure its national security and contribute to regional stability.",
+      "historical_context": "Japan's post-WWII defense posture has been marked by a commitment to pacifism and limited military engagement. However, recent shifts in the regional security landscape have prompted Japan to reassess its defense strategy and strengthen its military capabilities.",
+      "significance": "Japan's defense pivot has significant implications for regional security dynamics, particularly in the context of India's Act East policy and the Quad initiative. Enhanced defense cooperation between Japan and India could contribute to a more stable and secure Indo-Pacific region.",
+      "implications": "The implications of Japan's defense pivot are far-reaching, with potential impacts on regional security, defense cooperation, and the balance of power in the Indo-Pacific. India and Japan must navigate these changes to strengthen their bilateral ties and promote regional stability.",
+      "stakeholders": "The key stakeholders include Japan's Ministry of Defense, India's Ministry of Defence, other regional actors, and international organizations. These actors have a vested interest in the outcomes of Japan's defense pivot and its implications for regional security.",
+      "advantages": "Japan's defense pivot presents opportunities for enhanced defense cooperation with India, contributing to regional stability and security. It also underscores Japan's commitment to assuming a more active role in regional defense.",
+      "challenges": "The challenges include potential misinterpretation of Japan's defense pivot by neighboring countries, leading to increased tensions. There may also be limitations in terms of India's capacity to engage in enhanced defense cooperation with Japan.",
+      "criticisms": "Critics argue that Japan's defense pivot could lead to a militarization of the region, exacerbating existing tensions. Others point out that Japan's actions may not be sufficient to address the regional security challenges posed by China.",
+      "way_forward": "To effectively address the implications of Japan's defense pivot, India and Japan must engage in sustained dialogue and cooperation on defense issues. This includes enhancing bilateral defense ties, promoting regional stability, and addressing shared security concerns."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This topic could be relevant for questions on international relations, defense strategy, and regional security dynamics. A prelims question could test facts about Japan's defense policies, India's Act East policy, or the Quad initiative.",
+      "mains_angle": "This topic could generate questions in GS2, focusing on international relations, defense cooperation, and regional security. It could explore the implications of Japan's defense pivot for India's foreign policy and regional stability.",
+      "essay_angle": "The topic connects to broader themes of international security, regional cooperation, and strategic partnerships, which are suitable for the Essay paper. It could be explored in the context of India's role in promoting regional stability and its experiences with defense cooperation."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Expert Explains | How India and Japan can deepen their business ties",
+    "url": "https://indianexpress.com/article/explained/expert-explains-how-india-and-japan-can-deepen-their-business-ties-10768799/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 01:30:36 +0000",
+    "feed_source": "IE_EXPLAINED",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "International Business and Trade"
+    ],
+    "deep_analysis": {
+      "what": "India and Japan have significant potential to deepen their business ties, particularly in areas such as technology, manufacturing, and infrastructure. Strengthening economic cooperation between the two countries could contribute to their mutual growth and development. This could involve increased trade, investment, and technological collaboration.",
+      "why": "The potential for deepening business ties between India and Japan is driven by their complementary economies, shared democratic values, and strategic interests. Both countries seek to leverage each other's strengths to promote economic growth and development.",
+      "historical_context": "India and Japan have a long-standing relationship, with historical and cultural ties dating back to the 20th century. However, their economic engagement has been limited compared to their potential.",
+      "significance": "Enhanced business ties between India and Japan could have significant economic benefits, including increased trade, investment, and job creation. It could also contribute to their strategic partnership and cooperation in regional and global affairs.",
+      "implications": "The implications of deepened business ties are far-reaching, with potential impacts on bilateral trade, economic growth, and strategic cooperation. Both countries must navigate these changes to maximize the benefits of their economic engagement.",
+      "stakeholders": "The key stakeholders include businesses, governments, and civil society organizations in both India and Japan. These actors have a vested interest in the outcomes of enhanced economic cooperation and must work together to realize the potential benefits.",
+      "advantages": "Deepened business ties between India and Japan present opportunities for mutual economic growth, technological collaboration, and strategic partnership. It could also enhance their global competitiveness and influence.",
+      "challenges": "The challenges include potential barriers to trade and investment, differences in regulatory frameworks, and competition from other regional actors. There may also be limitations in terms of cultural and linguistic differences.",
+      "criticisms": "Critics argue that enhanced economic cooperation could lead to job displacement, environmental degradation, or cultural homogenization. Others point out that the benefits of economic cooperation may not be evenly distributed.",
+      "way_forward": "To effectively deepen their business ties, India and Japan must engage in sustained dialogue and cooperation on economic issues. This includes enhancing trade and investment facilitation, promoting technological collaboration, and addressing shared challenges."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "",
+      "mains_angle": "",
+      "essay_angle": ""
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Disable 7 apps, Government tells Apple, Google after e-rickshaw shutdown videos",
+    "url": "https://indianexpress.com/article/business/bat-bms-app-blocked-e-rickshaw-battery-safety-apple-google-10769819/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 10:37:00 +0000",
+    "feed_source": "IE_ECONOMY",
+    "gs_tags": [
+      "GS2"
+    ],
+    "topics": [
+      "Regulation of Digital Platforms and Data Protection"
+    ],
+    "deep_analysis": {
+      "what": "The Indian government has asked Apple and Google to disable 7 apps that were allegedly used to stream videos of e-rickshaw shutdowns. This move is part of a broader effort to regulate digital platforms and ensure compliance with Indian laws. The government has been actively monitoring online content and taking steps to address concerns related to data protection and national security. These actions are being taken under the Information Technology Act, 2000, and other relevant regulations.",
+      "why": "The government's action is driven by concerns over national security and the potential misuse of digital platforms for unlawful activities. The shutdowns of e-rickshaws may have been coordinated through these apps, prompting the government to intervene. Additionally, there is a growing need to regulate digital platforms to protect user data and ensure compliance with Indian laws.",
+      "historical_context": "The Indian government has been actively working on regulating digital platforms, especially after the data protection bill was introduced in Parliament. The bill aims to provide a framework for data protection and impose penalties on companies that fail to comply. This action against the 7 apps is part of this larger effort to ensure that digital platforms operate within the bounds of Indian law.",
+      "significance": "This move signifies the government's intent to closely monitor and regulate digital platforms operating in India. It sets a precedent for stricter enforcement of data protection and national security laws. This could have implications for how digital platforms operate in India and how they handle user data.",
+      "implications": "The short-term implications include the potential suspension or permanent ban of these 7 apps and increased scrutiny of other digital platforms. In the long term, this could lead to more stringent regulations for digital platforms operating in India, affecting both domestic and international companies.",
+      "stakeholders": "The key stakeholders affected include the owners and users of the 7 apps in question, Apple, Google, and the broader digital platform industry in India. Government agencies responsible for monitoring and regulating digital content are also key stakeholders.",
+      "advantages": "The advantages of this move include enhanced national security, better protection of user data, and a more regulated digital platform ecosystem. This could also encourage responsible behavior among digital platforms operating in India.",
+      "challenges": "The challenges include potential pushback from digital platform companies and users who may see these actions as overly restrictive. There could also be technical challenges in implementing and enforcing these regulations.",
+      "criticisms": "Critics may argue that these actions represent an overreach of government authority and could stifle innovation in the digital sector. There may also be concerns about the impact on user freedom and the potential for censorship.",
+      "way_forward": "Going forward, the government may need to engage in a dialogue with digital platform companies to develop clear guidelines and regulations. There should also be a focus on creating a balanced regulatory framework that protects national security and user data without stifling innovation."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This issue could be relevant for questions related to the Information Technology Act, 2000, and data protection regulations in India. A prelims question could test knowledge of key provisions of the IT Act or recent actions taken by the government under this act.",
+      "mains_angle": "For GS2, this topic could generate questions related to the regulation of digital platforms, data protection, and national security. A mains question could ask about the challenges and opportunities in regulating digital platforms in India or the implications of such regulations for national security and user rights.",
+      "essay_angle": "This topic connects to broader themes of governance, technology, and security, which could be explored in an essay. An essay question could ask about the balance between national security and individual freedoms in the digital age or the role of regulation in shaping the digital economy."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Rupee up 18 paise at 95.21; Sensex rises 480 points, Nifty tops 24,300",
+    "url": "https://indianexpress.com/article/business/market/rupee-up-sensex-rises-nifty-tops-markets-us-dollar-10769157/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 03:53:35 +0000",
+    "feed_source": "IE_ECONOMY",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "Indian Economy and Financial Markets"
+    ],
+    "deep_analysis": {
+      "what": "The Indian rupee appreciated by 18 paise to 95.21 against the US dollar, and the Sensex rose by 480 points to reach a new high, while the Nifty topped 24,300. This significant movement in the financial markets is attributed to various domestic and international economic factors. The strengthening of the rupee and the surge in stock market indices reflect positive investor sentiment and economic recovery.",
+      "why": "The appreciation of the rupee and the rise in stock market indices are driven by factors such as foreign fund inflows, a decrease in crude oil prices, and positive economic data. Investor confidence has been bolstered by signs of economic recovery and stability in the financial markets.",
+      "historical_context": "The Indian economy has been on a recovery path post-pandemic, with various sectors showing signs of growth. The government's economic policies and global trends have played a crucial role in shaping market sentiments. The recent budget and monetary policy decisions by the Reserve Bank of India have also influenced market movements.",
+      "significance": "This development is significant as it reflects the resilience of the Indian economy and the positive perception of investors towards the country's financial markets. A strong rupee and bullish stock market can attract foreign investments and boost economic growth.",
+      "implications": "The short-term implications include increased investor confidence and potential foreign investment inflows. In the long term, sustained economic growth and stability could lead to higher GDP growth rates and improved living standards.",
+      "stakeholders": "The key stakeholders include investors, both domestic and foreign, the Reserve Bank of India, the government, and various sectors of the economy that benefit from increased investment and economic growth.",
+      "advantages": "The advantages include a stronger rupee, which can reduce import costs and inflation, and a rising stock market, which can boost wealth and economic activity.",
+      "challenges": "The challenges include managing inflation, ensuring sustainable economic growth, and maintaining stability in the financial markets. There is also the risk of market volatility due to global economic uncertainties.",
+      "criticisms": "Critics may argue that the market movements are not reflective of the real economy and that there are underlying structural issues that need to be addressed. There may also be concerns about the impact of market volatility on ordinary investors.",
+      "way_forward": "Going forward, the government and regulatory bodies need to ensure that the economic growth is sustainable and inclusive. Policies should focus on structural reforms, fiscal discipline, and monetary policy stability to maintain investor confidence and economic stability."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This issue could be relevant for questions related to Indian economy, financial markets, and monetary policy. A prelims question could test knowledge of key economic indicators, recent trends in the stock market, or the role of the Reserve Bank of India.",
+      "mains_angle": "For GS3, this topic could generate questions related to economic growth, financial markets, and monetary policy. A mains question could ask about the factors influencing exchange rates, the impact of stock market movements on the economy, or the challenges in achieving sustainable economic growth.",
+      "essay_angle": "This topic connects to broader themes of economic development, globalization, and financial stability, which could be explored in an essay. An essay question could ask about the impact of global economic trends on India or the role of financial markets in economic development."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "India plans big move against VPN web privacy tools",
+    "url": "https://indianexpress.com/article/business/government-looks-at-stricter-rules-for-vpn-providers-office-in-india-appoint-compliance-officials-10768892/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 00:04:21 +0000",
+    "feed_source": "IE_ECONOMY",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "Cybersecurity and Data Protection"
+    ],
+    "deep_analysis": {
+      "what": "The Indian government is planning a significant move against VPN (Virtual Private Network) web privacy tools. This action is aimed at enhancing cybersecurity and data protection. The government has been concerned about the use of VPNs for unlawful activities and data breaches.",
+      "why": "The government's concern is driven by the potential misuse of VPNs for cybercrimes, data theft, and other illegal activities. There is also a need to ensure compliance with data protection laws and regulations.",
+      "historical_context": "The Indian government has been actively working on strengthening cybersecurity and data protection frameworks. The proposed regulations on VPNs are part of this broader effort to secure the digital ecosystem and protect user data.",
+      "significance": "This move is significant as it highlights the government's focus on cybersecurity and data protection. It sets a precedent for stricter regulations on digital privacy tools and could have implications for how VPNs are used and regulated in India.",
+      "implications": "The short-term implications include potential restrictions on the use of VPNs and increased scrutiny of digital privacy tools. In the long term, this could lead to a more secure digital environment and better protection of user data.",
+      "stakeholders": "The key stakeholders include VPN service providers, users of these services, government agencies responsible for cybersecurity, and the broader digital community.",
+      "advantages": "The advantages include enhanced cybersecurity, better protection of user data, and a reduced risk of cybercrimes. This could also encourage responsible behavior among VPN service providers.",
+      "challenges": "The challenges include potential pushback from VPN users and service providers who may see these actions as restrictive. There could also be technical challenges in implementing and enforcing these regulations.",
+      "criticisms": "Critics may argue that these actions could compromise user privacy and freedom. There may also be concerns about the impact on legitimate uses of VPNs for secure communication.",
+      "way_forward": "Going forward, the government may need to engage with VPN service providers and users to develop clear guidelines and regulations. There should be a focus on balancing cybersecurity needs with user privacy and freedom."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This issue could be relevant for questions related to cybersecurity, data protection, and regulations on digital privacy tools. A prelims question could test knowledge of key provisions of data protection laws or recent actions taken by the government in this area.",
+      "mains_angle": "For GS3, this topic could generate questions related to cybersecurity, data protection, and the regulation of digital privacy tools. A mains question could ask about the challenges and opportunities in regulating VPNs or the implications of such regulations for cybersecurity and user privacy.",
+      "essay_angle": "This topic connects to broader themes of cybersecurity, data protection, and digital governance, which could be explored in an essay. An essay question could ask about the balance between cybersecurity and individual freedoms in the digital age or the role of regulation in shaping the digital economy."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Iran war live: Iran readies state funeral for slain Ayatollah Ali Khamenei as US agrees to halt talks for a week",
+    "url": "https://indianexpress.com/article/world/us-iran-war-live-updates-supreme-leader-ayatollah-khamenei-funeral-10770284/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 23:15:14 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS2"
+    ],
+    "topics": [
+      "International Relations"
+    ],
+    "deep_analysis": {
+      "what": "The news reports on the state funeral of Ayatollah Ali Khamenei, a high-ranking Iranian cleric, and its implications on Iran-US relations. The US has agreed to halt talks for a week as a sign of respect. The funeral procession took place in Tehran and was attended by thousands of people.",
+      "why": "The funeral of Ayatollah Ali Khamenei is significant due to his influence on Iranian politics and his role in Iran-US relations. The US decision to halt talks for a week is a gesture of respect and may also be a strategic move to allow Iran to manage its internal affairs.",
+      "historical_context": "Ayatollah Ali Khamenei is a prominent figure in Iranian politics and has been instrumental in shaping the country's relations with the US. His death may lead to a transition in Iran's leadership and potentially impact the country's stance on international issues.",
+      "significance": "The event holds significance for Iran-US relations, as it may impact the trajectory of peace talks. The US decision to halt talks for a week may be seen as a gesture of respect, but also raises questions about the future of diplomatic engagement between the two nations.",
+      "implications": "The short-term implications include a potential pause in Iran-US peace talks, while the long-term implications depend on the outcome of Iran's leadership transition and its impact on international relations.",
+      "stakeholders": "The key stakeholders include the Iranian government, the US government, and other nations involved in peace talks. The event also affects the Iranian people, who have gathered to pay tribute to Ayatollah Ali Khamenei.",
+      "advantages": "The state funeral allows Iran to manage its internal affairs and pay respects to a prominent leader. The US decision to halt talks for a week may be seen as a positive gesture.",
+      "challenges": "The event poses challenges for Iran-US relations, as it may impact the momentum of peace talks. There are also risks associated with the transition of leadership in Iran and its implications for international relations.",
+      "criticisms": "Some critics may argue that the US decision to halt talks for a week is a tactical move to allow Iran to manage its internal affairs, while others may see it as a positive gesture of respect.",
+      "way_forward": "Going forward, it is essential to monitor the developments in Iran-US relations and assess the impact of Ayatollah Ali Khamenei's death on the country's leadership and international stance."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "The Prelims exam may test facts about Ayatollah Ali Khamenei's role in Iranian politics and Iran-US relations. Questions may also be asked about the significance of his state funeral and its implications for international relations.",
+      "mains_angle": "The GS2 paper may feature questions on the impact of Ayatollah Ali Khamenei's death on Iran-US relations and the implications for international diplomacy. A question may be asked on the role of leadership transitions in shaping a country's international stance.",
+      "essay_angle": "The topic connects to broader themes of international relations, diplomacy, and leadership transitions, which are suitable for a GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Ayatollah Ali Khamenei’s state funeral begins in Tehran as thousands gather to pay tribute",
+    "url": "https://indianexpress.com/article/world/iran-begins-ayatollah-ali-khamenei-state-funeral-tehran-us-truce-10770269/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 15:59:17 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS2"
+    ],
+    "topics": [
+      "International Relations"
+    ],
+    "deep_analysis": {
+      "what": "The news reports on the state funeral of Ayatollah Ali Khamenei, with thousands gathering to pay tribute in Tehran. The event marks a significant moment in Iranian politics and international relations.",
+      "why": "The funeral is a significant event due to Ayatollah Ali Khamenei's influence on Iranian politics and his role in shaping the country's relations with the international community.",
+      "historical_context": "Ayatollah Ali Khamenei has been a prominent figure in Iranian politics for decades, and his death marks a transition in the country's leadership.",
+      "significance": "The event holds significance for Iran's internal politics and its relations with the international community, particularly the US.",
+      "implications": "The implications of the event include a potential shift in Iran's leadership and its impact on international relations, particularly with the US.",
+      "stakeholders": "The key stakeholders include the Iranian government, the US government, and other nations involved in international relations with Iran.",
+      "advantages": "The state funeral allows Iran to manage its internal affairs and pay respects to a prominent leader.",
+      "challenges": "The event poses challenges for Iran's leadership transition and its implications for international relations.",
+      "criticisms": "Some critics may argue that the event marks a significant moment in Iranian politics, while others may see it as an opportunity for the US to re-engage with Iran.",
+      "way_forward": "Going forward, it is essential to monitor the developments in Iran's leadership transition and its impact on international relations."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "The Prelims exam may test facts about Ayatollah Ali Khamenei's role in Iranian politics and the significance of his state funeral.",
+      "mains_angle": "The GS2 paper may feature questions on the impact of Ayatollah Ali Khamenei's death on Iranian politics and international relations.",
+      "essay_angle": "The topic connects to broader themes of international relations, leadership transitions, and diplomacy, which are suitable for a GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "US feared Israel could kill Iran’s top negotiators during peace talks: Report",
+    "url": "https://indianexpress.com/article/world/us-feared-israel-plot-kill-iran-negotiators-10769354/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 15:15:49 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS2"
+    ],
+    "topics": [
+      "International Relations"
+    ],
+    "deep_analysis": {
+      "what": "The news reports on the US fear that Israel could kill Iran's top negotiators during peace talks. The report highlights the complexities of international diplomacy and the challenges of negotiating with countries with competing interests.",
+      "why": "The US fear is driven by the complexities of international diplomacy and the competing interests of countries involved in peace talks.",
+      "historical_context": "The report is set against the backdrop of Iran-US peace talks and the role of Israel in the region.",
+      "significance": "The event holds significance for Iran-US relations and the challenges of negotiating with countries with competing interests.",
+      "implications": "The implications of the event include the potential risks and challenges associated with international diplomacy and peace talks.",
+      "stakeholders": "The key stakeholders include the US government, the Iranian government, and Israel.",
+      "advantages": "The report highlights the complexities of international diplomacy and the need for careful negotiation.",
+      "challenges": "The event poses challenges for international diplomacy and peace talks, particularly in the context of competing interests.",
+      "criticisms": "Some critics may argue that the report highlights the risks and challenges associated with international diplomacy, while others may see it as an opportunity for the US to re-engage with Iran.",
+      "way_forward": "Going forward, it is essential to monitor the developments in Iran-US peace talks and assess the impact of competing interests on international diplomacy."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "The Prelims exam may test facts about Iran-US peace talks and the role of Israel in the region.",
+      "mains_angle": "The GS2 paper may feature questions on the challenges of international diplomacy and peace talks, particularly in the context of competing interests.",
+      "essay_angle": "The topic connects to broader themes of international relations, diplomacy, and conflict resolution, which are suitable for a GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Ayatollah Ali Khamenei’s funeral schedule: Tehran to Karbala, here’s full itinerary as India sends delegation",
+    "url": "https://indianexpress.com/article/world/ayatollah-ali-khamenei-funeral-schedule-tehran-india-delegation-pabitra-margherita-10769488/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 13:50:15 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS2"
+    ],
+    "topics": [
+      "International Relations"
+    ],
+    "deep_analysis": {
+      "what": "The news reports on the funeral schedule of Ayatollah Ali Khamenei, with India sending a delegation to pay tribute. The event marks a significant moment in Iranian politics and international relations.",
+      "why": "The funeral schedule is significant due to Ayatollah Ali Khamenei's influence on Iranian politics and his role in shaping the country's relations with the international community.",
+      "historical_context": "Ayatollah Ali Khamenei has been a prominent figure in Iranian politics for decades, and his death marks a transition in the country's leadership.",
+      "significance": "The event holds significance for Iran's internal politics and its relations with the international community, particularly India.",
+      "implications": "The implications of the event include a potential shift in Iran's leadership and its impact on international relations, particularly with India.",
+      "stakeholders": "The key stakeholders include the Iranian government, the Indian government, and other nations involved in international relations with Iran.",
+      "advantages": "The state funeral allows Iran to manage its internal affairs and pay respects to a prominent leader, while also providing an opportunity for India to engage with Iran.",
+      "challenges": "The event poses challenges for Iran's leadership transition and its implications for international relations, particularly with India.",
+      "criticisms": "Some critics may argue that the event marks a significant moment in Iranian politics, while others may see it as an opportunity for India to strengthen its ties with Iran.",
+      "way_forward": "Going forward, it is essential to monitor the developments in Iran's leadership transition and its impact on international relations, particularly with India."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "The Prelims exam may test facts about Ayatollah Ali Khamenei's role in Iranian politics and the significance of his state funeral.",
+      "mains_angle": "The GS2 paper may feature questions on the impact of Ayatollah Ali Khamenei's death on Iranian politics and international relations, particularly with India.",
+      "essay_angle": "The topic connects to broader themes of international relations, leadership transitions, and diplomacy, which are suitable for a GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Pakistan accident: 40 dead in bus plunge, survivor alleges onboard fight led to ravine crash",
+    "url": "https://indianexpress.com/article/world/pakistan-bus-accident-overloaded-balochistan-peshawar-10769785/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 12:44:38 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "Disaster Management"
+    ],
+    "deep_analysis": {
+      "what": "The news reports on a bus accident in Pakistan that killed 40 people, with a survivor alleging that an onboard fight led to the crash. The incident highlights the importance of road safety and disaster management.",
+      "why": "The accident occurred due to a combination of factors, including an onboard fight and potential lapses in road safety measures.",
+      "historical_context": "The incident is part of a larger context of road accidents in Pakistan and the need for improved disaster management and road safety measures.",
+      "significance": "The event holds significance for disaster management and road safety in Pakistan and the region.",
+      "implications": "The implications of the event include the need for improved road safety measures and disaster management strategies to prevent such incidents in the future.",
+      "stakeholders": "The key stakeholders include the Pakistani government, road safety authorities, and the public.",
+      "advantages": "The incident highlights the importance of road safety and disaster management, and the need for improved measures to prevent such incidents.",
+      "challenges": "The event poses challenges for disaster management and road safety in Pakistan, particularly in terms of implementing effective measures to prevent such incidents.",
+      "criticisms": "Some critics may argue that the incident highlights the need for improved road safety measures and disaster management strategies, while others may see it as a tragic accident.",
+      "way_forward": "Going forward, it is essential to implement effective road safety measures and disaster management strategies to prevent such incidents in the future."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "The Prelims exam may test facts about road safety and disaster management in Pakistan.",
+      "mains_angle": "The GS3 paper may feature questions on disaster management and road safety, particularly in the context of Pakistan and the region.",
+      "essay_angle": "The topic connects to broader themes of disaster management, road safety, and public health, which are suitable for a GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "America 250th anniversary: Why more Indian students than ever are choosing the US",
+    "url": "https://indianexpress.com/article/world/america250-indian-students-surpass-china-us-universities-open-doors-report-10764561/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 11:50:08 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "Education and Human Development"
+    ],
+    "deep_analysis": {
+      "what": "The news reports on the increasing number of Indian students choosing to study in the US, particularly in light of the country's 250th anniversary celebrations. The trend highlights the importance of international education and cultural exchange.",
+      "why": "The trend is driven by factors such as the quality of education, research opportunities, and cultural exchange programs.",
+      "historical_context": "The trend is part of a larger context of international education and cultural exchange between India and the US.",
+      "significance": "The event holds significance for education and human development, particularly in terms of international cooperation and cultural exchange.",
+      "implications": "The implications of the event include the potential for increased collaboration between India and the US in education and research.",
+      "stakeholders": "The key stakeholders include educational institutions, governments, and students.",
+      "advantages": "The trend highlights the benefits of international education and cultural exchange, including increased collaboration and knowledge sharing.",
+      "challenges": "The event poses challenges for educational institutions and governments in terms of managing the flow of international students and ensuring quality education.",
+      "criticisms": "Some critics may argue that the trend highlights the need for increased investment in education and research in India, while others may see it as a positive development.",
+      "way_forward": "Going forward, it is essential to promote international education and cultural exchange programs, while also ensuring quality education and research opportunities."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "The Prelims exam may test facts about international education and cultural exchange programs between India and the US.",
+      "mains_angle": "The GS3 paper may feature questions on education and human development, particularly in the context of international cooperation and cultural exchange.",
+      "essay_angle": "The topic connects to broader themes of education, human development, and international cooperation, which are suitable for a GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "UAE plans to regulate children’s content consumption after under-15 social media ban",
+    "url": "https://indianexpress.com/article/world/uae-plans-to-regulate-childrens-content-consumption-after-under-15-social-media-ban-10769262/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 07:12:22 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "Information Technology and Communication"
+    ],
+    "deep_analysis": {
+      "what": "The news reports on the UAE's plans to regulate children's content consumption after banning social media for under-15s. The move highlights the importance of protecting children's online safety and well-being.",
+      "why": "The UAE's decision is driven by concerns about the impact of social media on children's mental health and well-being.",
+      "historical_context": "The move is part of a larger context of regulating social media and protecting children's online safety.",
+      "significance": "The event holds significance for information technology and communication, particularly in terms of regulating social media and protecting children's online safety.",
+      "implications": "The implications of the event include the potential for increased regulation of social media and other online platforms.",
+      "stakeholders": "The key stakeholders include governments, social media companies, and parents.",
+      "advantages": "The move highlights the benefits of regulating social media and protecting children's online safety, including reduced risks of cyberbullying and online harassment.",
+      "challenges": "The event poses challenges for social media companies and governments in terms of balancing free speech with the need to protect children's online safety.",
+      "criticisms": "Some critics may argue that the move is an overreach of government authority, while others may see it as a necessary measure to protect children's online safety.",
+      "way_forward": "Going forward, it is essential to promote responsible social media use and regulate online platforms to protect children's online safety and well-being."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "The Prelims exam may test facts about the UAE's regulations on social media and children's online safety.",
+      "mains_angle": "The GS3 paper may feature questions on information technology and communication, particularly in the context of regulating social media and protecting children's online safety.",
+      "essay_angle": "The topic connects to broader themes of information technology, communication, and public policy, which are suitable for a GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "In Kyiv’s ‘worst attack’, Russia launches nearly 500 drones; 27 dead",
+    "url": "https://indianexpress.com/article/world/russia-drone-missile-attack-ukraine-kyiv-death-toll-rise-10769158/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 06:15:16 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS2"
+    ],
+    "topics": [
+      "International Relations and Conflict"
+    ],
+    "deep_analysis": {
+      "what": "Russia launched a massive drone attack on Kyiv, resulting in 27 deaths and significant damage. This attack is considered one of the worst on the city. The use of nearly 500 drones highlights the escalation of the conflict between Russia and Ukraine. The attack has caused widespread destruction and loss of life, drawing international condemnation.",
+      "why": "The attack is part of the ongoing conflict between Russia and Ukraine, with Russia seeking to assert its dominance and Ukraine fighting for its sovereignty. The increased use of drones by Russia is a tactical shift to overwhelm Ukrainian air defenses and cause significant damage.",
+      "historical_context": "The conflict between Russia and Ukraine has been ongoing since 2014, with periods of relative calm punctuated by violent escalations. The use of drones in warfare has become increasingly common, with various countries exploring their potential in combat.",
+      "significance": "This attack signifies a dangerous escalation in the conflict, with significant humanitarian consequences. It draws international attention to the plight of Ukraine and the need for a peaceful resolution to the conflict.",
+      "implications": "The short-term implications include a worsening humanitarian situation in Ukraine, with more civilians at risk. Long-term implications could involve a shift in the balance of power in the region and increased international involvement.",
+      "stakeholders": "The key stakeholders include the governments of Russia and Ukraine, international organizations such as the UN, and NATO member states. Civilians in Ukraine are directly affected by the conflict.",
+      "advantages": "The use of drones by Russia may provide short-term tactical advantages in terms of overwhelming air defenses and causing damage. However, it also risks galvanizing international opposition.",
+      "challenges": "The main challenge is finding a peaceful resolution to the conflict that addresses the concerns of all parties. The use of drones and escalation of violence complicates these efforts.",
+      "criticisms": "The attack has been widely condemned, with critics labeling it as an inhumane act that targets civilians. There are also questions about the effectiveness and sustainability of Russia's strategy.",
+      "way_forward": "A negotiated settlement that addresses the security concerns of both Russia and Ukraine is essential. International diplomatic efforts and economic sanctions may be needed to bring the parties to the negotiating table."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This news could test facts about the ongoing Russia-Ukraine conflict, the use of drones in warfare, and international reactions to such attacks. Specific dates, numbers of casualties, and types of weapons used could be relevant.",
+      "mains_angle": "This could generate a question in GS2 on the implications of the Russia-Ukraine conflict for global security, the role of international organizations in conflict resolution, and the ethical considerations of using drones in warfare.",
+      "essay_angle": "The topic connects to broader themes of conflict resolution, the ethics of warfare, and the impact of geopolitical tensions on global stability, suitable for GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Tibetan activist dies after self-immolation outside UN headquarters in New York. Who was Lobsang Rangzen?",
+    "url": "https://indianexpress.com/article/world/tibetan-protester-self-immolation-un-headquarters-nyc-10769159/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 05:12:06 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS2"
+    ],
+    "topics": [
+      "International Relations and Human Rights"
+    ],
+    "deep_analysis": {
+      "what": "Tibetan activist Lobsang Rangzen died after self-immolation outside the UN headquarters in New York. This act highlights the desperation and frustration of Tibetan activists regarding their cause. Lobsang Rangzen was a well-known figure in the Tibetan activist community.",
+      "why": "The self-immolation is a form of protest against Chinese rule in Tibet and the lack of recognition of Tibetan rights by the international community. It reflects the deep-seated grievances within the Tibetan community.",
+      "historical_context": "Tibetan activists have been using various forms of protest, including self-immolation, to draw attention to their cause since the 1990s. The Tibetan issue has been a point of contention between China and the international community, with many countries criticizing China's human rights record in Tibet.",
+      "significance": "This event brings international attention to the Tibetan cause and the human rights situation in Tibet. It puts pressure on the Chinese government to address Tibetan grievances.",
+      "implications": "The short-term implications include increased scrutiny of China's human rights record. Long-term implications could involve a shift in international opinion and policy towards Tibet.",
+      "stakeholders": "The key stakeholders include the Tibetan activist community, the Chinese government, and the international community, particularly the UN and human rights organizations.",
+      "advantages": "The self-immolation draws immediate attention to the Tibetan cause and may galvanize support among human rights advocates.",
+      "challenges": "The main challenge is achieving meaningful change in Tibet's status and improving human rights conditions through peaceful means.",
+      "criticisms": "Some critics view self-immolation as an extreme form of protest that may alienate potential supporters. Others question the effectiveness of such actions in achieving tangible results.",
+      "way_forward": "A peaceful and negotiated resolution to the Tibetan issue, involving dialogue between Tibetan representatives and the Chinese government, is essential. International support and pressure can facilitate this process."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This news could test facts about Tibetan history, the Tibetan diaspora, and international human rights issues. Specific details about Lobsang Rangzen and the location of his protest could be relevant.",
+      "mains_angle": "This could generate a question in GS2 on human rights issues, forms of protest and their implications, and India's stance on Tibetan issues.",
+      "essay_angle": "The topic connects to broader themes of human rights, self-determination, and the role of activism in international relations, suitable for GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "Trump says Iran has agreed to US demands. But key questions remain",
+    "url": "https://indianexpress.com/article/world/trump-claims-iran-agreed-to-everything-nuclear-talks-diplomacy-10769086/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 02:00:45 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS2"
+    ],
+    "topics": [
+      "International Relations and Diplomacy"
+    ],
+    "deep_analysis": {
+      "what": "Former US President Donald Trump claimed that Iran had agreed to US demands, but key questions and details remain unclear. This development has significant implications for US-Iran relations and global diplomacy. The claimed agreement could mark a shift in US policy towards Iran.",
+      "why": "The claimed agreement may be part of a broader effort to revive the Iran nuclear deal or to negotiate a new agreement. The US and Iran have had a contentious relationship, with various issues including nuclear proliferation, sanctions, and regional influence.",
+      "historical_context": "US-Iran relations have been strained since the Iranian Revolution in 1979. The Iran nuclear deal, agreed upon in 2015, was a significant but temporary improvement in relations. The US withdrew from the deal in 2018, leading to increased tensions.",
+      "significance": "This development could signify a major shift in US foreign policy towards Iran, potentially easing tensions and leading to new diplomatic engagements.",
+      "implications": "The short-term implications include potential easing of sanctions and improved diplomatic relations. Long-term implications could involve a more stable Middle East and a renewed focus on global non-proliferation efforts.",
+      "stakeholders": "The key stakeholders include the governments of the US and Iran, other signatories to the Iran nuclear deal, and countries in the Middle East.",
+      "advantages": "A potential agreement could reduce tensions in the Middle East, improve US-Iran relations, and facilitate international cooperation on non-proliferation.",
+      "challenges": "Verifying the details of any agreement and ensuring compliance from both sides will be challenging. The political landscape in both countries and the region could complicate negotiations.",
+      "criticisms": "Critics may question the sincerity of the claimed agreement and the concessions made by both sides. There are concerns about the potential for Iran to exploit any easing of sanctions.",
+      "way_forward": "Clear communication of the terms and verification mechanisms of any agreement is essential. Continuous diplomatic engagement and international cooperation are needed to ensure the success and sustainability of the agreement."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This news could test facts about US-Iran relations, the Iran nuclear deal, and current diplomatic efforts. Specific details about the claimed agreement and reactions from various stakeholders could be relevant.",
+      "mains_angle": "This could generate a question in GS2 on the nuances of international diplomacy, the challenges of nuclear negotiations, and India's approach to the Middle East.",
+      "essay_angle": "The topic connects to broader themes of international diplomacy, conflict resolution, and the impact of US foreign policy on global relations, suitable for GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
+  },
+  {
+    "title": "8 days under rubble: How one man survived a devastating building collapse after the Venezuela earthquake",
+    "url": "https://indianexpress.com/article/world/venezuela-earthquake-man-rescued-alive-eight-days-building-collapse-10768965/",
+    "summary": "",
+    "published_date": "Fri, 03 Jul 2026 00:13:43 +0000",
+    "feed_source": "IE_WORLD",
+    "gs_tags": [
+      "GS3"
+    ],
+    "topics": [
+      "Disaster Management and Humanitarian Issues"
+    ],
+    "deep_analysis": {
+      "what": "A devastating building collapse occurred after a Venezuela earthquake, with one man surviving for 8 days under rubble. This incident highlights the vulnerability of infrastructure and the challenges in disaster response. The survival of the man is a testament to human resilience.",
+      "why": "The building collapse and the earthquake reflect broader issues of infrastructure quality, disaster preparedness, and response in Venezuela. The country has faced significant economic and political challenges, which may impact its ability to respond to disasters.",
+      "historical_context": "Venezuela has experienced various natural disasters and has struggled with economic and political crises. The response to such incidents often involves international assistance.",
+      "significance": "This incident draws attention to the need for improved disaster preparedness and infrastructure resilience in Venezuela and similar contexts. It also highlights the importance of international cooperation in humanitarian responses.",
+      "implications": "The short-term implications include a focus on search and rescue efforts and providing aid to affected communities. Long-term implications involve rebuilding infrastructure and enhancing disaster preparedness measures.",
+      "stakeholders": "The key stakeholders include the Venezuelan government, international aid organizations, and the affected communities.",
+      "advantages": "The survival of the man under rubble for 8 days highlights human resilience and the potential for miraculous recoveries. The incident can galvanize support for disaster relief efforts.",
+      "challenges": "The main challenges involve the immediate response to the disaster, including search and rescue operations, and the long-term recovery and rebuilding efforts.",
+      "criticisms": "There may be criticisms of the Venezuelan government's preparedness and response to the disaster, as well as the role of international organizations in providing aid.",
+      "way_forward": "Enhanced disaster preparedness measures, including better infrastructure and emergency response planning, are essential. International cooperation and support can play a critical role in disaster response and recovery."
+    },
+    "upsc_thinking_layer": {
+      "prelims_angle": "This news could test facts about disaster management, international humanitarian law, and Venezuela's geography and climate. Specific details about the earthquake, the building collapse, and the rescue efforts could be relevant.",
+      "mains_angle": "This could generate a question in GS3 on disaster management strategies, the impact of natural disasters on communities, and the role of international cooperation in humanitarian responses.",
+      "essay_angle": "The topic connects to broader themes of resilience, humanitarianism, and the challenges of disaster response in vulnerable regions, suitable for GS4 or Essay paper."
+    },
+    "knowledge_graph": [],
+    "relevance_score": 10
   }
 ]
